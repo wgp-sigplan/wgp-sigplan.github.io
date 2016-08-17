@@ -102,12 +102,12 @@ ordering.
 The 2014/2015 members of the Steering Committee are:
 
 * the (co-)chairs of the previous three workshops
-    - Andres Löh (end of term 2015, SC chair 2014/2015)
-    - Ronald Garcia (end of term 2015)
     - Jacques Carette (end of term 2016)
     - Jeremiah Willcock (end of term 2016)
     - José Pedro Magalhães (end of term 2017)
     - Tiark Rompf (end of term 2017)
+    - Patrick Bahr (end of term 2018)
+    - Sebastian Erdweg (end of term 2018)
 * three members-at-large
     - Stephanie Weirich (end of term 2015)
     - Tarmo Uustalu (end of term 2016)

@@ -45,11 +45,11 @@ Previous Workshops on Generic Programming have been held in
 * [Victoria 2008](http://www.cs.ox.ac.uk/ralf.hinze/wgp2008/),
 * Edinburgh 2009,
 * [Baltimore 2010](http://www.osl.iu.edu/wgp2010/),
-* Tokyo 2011,
-* Copenhagen 2012,
-* Boston 2013, 
-* Gothenburg 2014,
-* Vancouver 2015.
+* [Tokyo 2011](WGP-2011.html),
+* [Copenhagen 2012](WGP-2012.html),
+* [Boston 2013](WGP-2013.html), 
+* [Gothenburg 2014](WGP-2014.html),
+* [Vancouver 2015](WGP-2015.html).
 
 The workshop has been affiliated with ICFP from 2006-2013. In 2006,
 2008, 2009, 2010, 2011, 2013, and 2014 the workshop was sponsored by
